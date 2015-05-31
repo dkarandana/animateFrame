@@ -10,8 +10,8 @@ Code sample
 #### add data attribute (data-animation) from-to
 ```html
 	<div data-animation="200_400,50_20" class="type1 animateFrame">
-      <img src="http://s24.postimg.org/brkoj6uwl/url_1.jpg"/>
-  </div>
+	      	<img src="http://s24.postimg.org/brkoj6uwl/url_1.jpg"/>
+	</div>
 ```
 
 
