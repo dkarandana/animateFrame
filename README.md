@@ -1,3 +1,3 @@
 # animateFrame
-Animate html elements using data attributes and jQuery
+Animate DOM elements using jQury animate, configurations can be passed through the html data attributes. 
   
