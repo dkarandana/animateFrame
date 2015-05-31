@@ -12,11 +12,11 @@ Code sample
 data-animation="200_400,50_20"
 
 #### bind element to animateFrame
-    ```javascript
-$('.animateFrame').animateFrame({
+```javascript
+	$('.animateFrame').animateFrame({
 		  selector:'img',
 		  prop:'height',
 		  time:2000,
 		  reverse:true
 	}); 
-    ```	
+```
