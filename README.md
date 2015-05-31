@@ -8,8 +8,12 @@ Animate DOM elements using jQury animate, configurations can be passed through t
 Code sample
 
 #### add data-animatio from-to
+```html
+	<div data-animation="200_400,50_20" class="type1 animateFrame">
+      <img src="http://s24.postimg.org/brkoj6uwl/url_1.jpg"/>
+  </div>
+```
 
-data-animation="200_400,50_20"
 
 #### bind element to animateFrame
 ```javascript
