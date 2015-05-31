@@ -10,3 +10,12 @@ Code sample
 #### add data-animatio from-to
 
 data-animation="200_400,50_20"
+
+#### bind element to animateFrame
+
+$('.animateFrame').animateFrame({
+		  selector:'img',
+		  prop:'height',
+		  time:2000,
+		  reverse:true
+	}); 
