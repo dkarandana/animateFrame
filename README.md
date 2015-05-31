@@ -7,7 +7,4 @@ Animate DOM elements using jQury animate, configurations can be passed through t
 
 Code sample
 
-    ```javascript
 
-    //
-    if(condition) doSomething();
