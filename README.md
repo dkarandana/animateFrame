@@ -7,4 +7,4 @@ Animate DOM elements using jQury animate, configurations can be passed through t
 
 Code sample
 
- <div data-animation="200_400,50_20" class="type1 animateFrame">HTML ELEMENT</div>
+data-animation="200_400,50_20"
