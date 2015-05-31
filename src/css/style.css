@@ -1,0 +1,12 @@
+body{
+    background:#eee;
+}
+.animateFrame{
+    height:200px;
+    width:auto;
+    background:#4AD1EF;
+}
+.animateFrame img{
+    height:200px;
+    width:auto;
+}
